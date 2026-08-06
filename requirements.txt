@@ -1,0 +1,6 @@
+setuptools
+requests
+beautifulsoup4
+undetected-chromedriver
+
+#require chrome browser otherwise wont work 
