@@ -5,9 +5,3 @@ beautifulsoup4
 undetected-chromedriver
 
 #require chrome browser otherwise wont work 
-=======
-setuptools
-requests
-beautifulsoup4
-undetected-chromedriver
->>>>>>> c413ec89614df3be0b9bada0f25d450415375fb4
